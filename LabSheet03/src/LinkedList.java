@@ -60,7 +60,8 @@ public class LinkedList {
             while (current_node.next != null && current_position < position - 1) {
                 current_node = current_node.next;
                 current_position++;
-            }current_node.next = current_node.next.next;
+            }
+            current_node.next = current_node.next.next;
         }
     }
     public void removeLastElement() {

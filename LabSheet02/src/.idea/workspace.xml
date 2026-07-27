@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="77e125cd-49a4-48dd-871b-4ceaa0ffcf0f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../labsheet02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab201.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab202.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab203.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabSheet02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LabSheet02/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LabSheet02/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LabSheet02/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LabSheet02/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LabSheet02/ArrayController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LabSheet02/Lab201.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LabSheet02/Lab202.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LabSheet02/Lab203.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LabSheet02/LabSheet02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LabSheet02/ex01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LabSheet02/ex02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LabSheet02/ex03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LabSheet02/ex04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LabSheet02/ex05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LabSheet02/ex06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LabSheet02/ex07.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="3GOF4CqNyfGuuYwqG0ik6R001s7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Lab201.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab202.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab203.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ex02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ex03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ex05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ex06.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Code/JAVA/2nd year/datastructure_tni/LabSheet02/src&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-cffe25b9f5b3-intellij.indexing.shared.core-IU-253.28294.334" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77e125cd-49a4-48dd-871b-4ceaa0ffcf0f" name="Changes" comment="" />
+      <created>1783834516936</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1783834516936</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lab203.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lab203.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lab203.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lab203.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lab203.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Lab203.java</url>
+          <line>52</line>
+          <properties class="Lab203" method="deleteElement">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Lab203.java</url>
+          <line>44</line>
+          <properties class="Lab203" method="addArraySize">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Lab203.java</url>
+          <line>63</line>
+          <properties class="Lab203" method="updateElement">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
